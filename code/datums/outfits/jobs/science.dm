@@ -1,6 +1,5 @@
 /decl/hierarchy/outfit/job/science
 	hierarchy_type = /decl/hierarchy/outfit/job/science
-	l_ear = /obj/item/device/radio/headset/headset_sci
 	suit = /obj/item/clothing/suit/storage/toggle/labcoat
 	shoes = /obj/item/clothing/shoes/white
 	pda_type = /obj/item/device/pda/science

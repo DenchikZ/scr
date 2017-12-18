@@ -115,7 +115,7 @@
 	outfit_type = /decl/hierarchy/outfit/job/librarian
 
 /datum/job/lawyer
-	title = "Internal Affairs Agent"
+	title = "Translater"
 	department = "Support"
 	department_flag = SPT
 	faction = "Station"

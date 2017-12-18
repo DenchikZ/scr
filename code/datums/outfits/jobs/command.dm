@@ -28,7 +28,7 @@
 /decl/hierarchy/outfit/job/hop
 	name = OUTFIT_JOB_NAME("Head of Personnel")
 	uniform = /obj/item/clothing/under/rank/head_of_personnel
-	l_ear = /obj/item/device/radio/headset/heads/hop
+	l_ear = /obj/item/device/radio/headset/heads/captain
 	shoes = /obj/item/clothing/shoes/brown
 	id_type = /obj/item/weapon/card/id/silver
 	pda_type = /obj/item/device/pda/heads/hop

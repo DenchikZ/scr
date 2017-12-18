@@ -248,7 +248,7 @@ var/const/NO_EMAG_ACT = -50
 /obj/item/weapon/card/id/captains_spare
 	name = "captain's spare ID"
 	desc = "The spare ID of the High Lord himself."
-	icon_state = "gold"
+	icon_state = "4level"
 	item_state = "gold_id"
 	registered_name = "Captain"
 	assignment = "Captain"
@@ -305,7 +305,7 @@ var/const/NO_EMAG_ACT = -50
 /obj/item/weapon/card/id/medical
 	name = "identification card"
 	desc = "A card issued to medical staff."
-	icon_state = "med"
+	icon_state = "2level"
 	job_access_type = /datum/job/doctor
 
 /obj/item/weapon/card/id/medical/chemist
@@ -323,13 +323,13 @@ var/const/NO_EMAG_ACT = -50
 /obj/item/weapon/card/id/medical/head
 	name = "identification card"
 	desc = "A card which represents care and compassion."
-	icon_state = "medGold"
+	icon_state = "3level"
 	job_access_type = /datum/job/cmo
 
 /obj/item/weapon/card/id/security
 	name = "identification card"
 	desc = "A card issued to security staff."
-	icon_state = "sec"
+	icon_state = "2level"
 	job_access_type = /datum/job/officer
 
 /obj/item/weapon/card/id/security/warden
@@ -341,13 +341,13 @@ var/const/NO_EMAG_ACT = -50
 /obj/item/weapon/card/id/security/head
 	name = "identification card"
 	desc = "A card which represents honor and protection."
-	icon_state = "secGold"
+	icon_state = "3level"
 	job_access_type = /datum/job/hos
 
 /obj/item/weapon/card/id/engineering
 	name = "identification card"
 	desc = "A card issued to engineering staff."
-	icon_state = "eng"
+	icon_state = "2level"
 	job_access_type = /datum/job/engineer
 
 /obj/item/weapon/card/id/engineering/atmos
@@ -356,13 +356,13 @@ var/const/NO_EMAG_ACT = -50
 /obj/item/weapon/card/id/engineering/head
 	name = "identification card"
 	desc = "A card which represents creativity and ingenuity."
-	icon_state = "engGold"
+	icon_state = "3level"
 	job_access_type = /datum/job/chief_engineer
 
 /obj/item/weapon/card/id/science
 	name = "identification card"
 	desc = "A card issued to science staff."
-	icon_state = "sci"
+	icon_state = "2level"
 	job_access_type = /datum/job/scientist
 
 /obj/item/weapon/card/id/science/xenobiologist
@@ -374,7 +374,7 @@ var/const/NO_EMAG_ACT = -50
 /obj/item/weapon/card/id/science/head
 	name = "identification card"
 	desc = "A card which represents knowledge and reasoning."
-	icon_state = "sciGold"
+	icon_state = "3level"
 	job_access_type = /datum/job/rd
 
 /obj/item/weapon/card/id/cargo
@@ -395,7 +395,7 @@ var/const/NO_EMAG_ACT = -50
 /obj/item/weapon/card/id/civilian
 	name = "identification card"
 	desc = "A card issued to civilian staff."
-	icon_state = "civ"
+	icon_state = "1level"
 	job_access_type = /datum/job/assistant
 
 /obj/item/weapon/card/id/civilian/bartender

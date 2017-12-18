@@ -1,7 +1,6 @@
 /decl/hierarchy/outfit/job/engineering
 	hierarchy_type = /decl/hierarchy/outfit/job/engineering
 	belt = /obj/item/weapon/storage/belt/utility/full
-	l_ear = /obj/item/device/radio/headset/headset_eng
 	shoes = /obj/item/clothing/shoes/workboots
 	backpack = /obj/item/weapon/storage/backpack/industrial
 	satchel_one = /obj/item/weapon/storage/backpack/satchel_eng
