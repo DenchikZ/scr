@@ -1,5 +1,5 @@
 /decl/hierarchy/outfit/job/assistant
-	name = OUTFIT_JOB_NAME("Assistant")
+	name = OUTFIT_JOB_NAME("D Class")
 	uniform = /obj/item/clothing/under/color/orange
 
 /decl/hierarchy/outfit/job/service
