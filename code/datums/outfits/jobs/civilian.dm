@@ -1,5 +1,6 @@
 /decl/hierarchy/outfit/job/assistant
 	name = OUTFIT_JOB_NAME("Assistant")
+	uniform = /obj/item/clothing/under/color/orange
 
 /decl/hierarchy/outfit/job/service
 	hierarchy_type = /decl/hierarchy/outfit/job/service
